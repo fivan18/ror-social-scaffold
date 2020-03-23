@@ -18,6 +18,8 @@ The porpuse of this project is to implement friendship functionality.
 
 - Ruby on Rails 5.2.4
 
+## Live version
+https://ror-social-scaffold.herokuapp.com/
 
 ## Authors
 
